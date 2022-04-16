@@ -8,7 +8,9 @@ As I ate my mini-egg croissant sandwich today, I couldn't help but notice how si
 I had changed my original order from the ham & cheese croissant to the mini-egg croissant because:
 1. I wanted to try a new type of croissant from the cafe
 2. The visual of the mini-egg croissant caught my attention
-I am not a fan of egg tarts. 
-As I chewed on my egg tart tasting croissant, I realized how the visual aesthetic of food could influence its taste.
-I could visualize a mashed up potato with eggs in a large bowl when chewing on the croissant with my eyes closed.
-However, as I ate my croissant while admiring its artistic texture, I felt like a real food connoisseur. It tasted great with my eyes open. How odd.
+
+
+> I am not a fan of egg tarts. 
+All I could think of was a mashed up bowl of potato and eggs as I chewed on the croissant with my eyes closed.
+But the croissant tasted great with my eyes open. I felt like a food connoisseur admiring its artistic texture and taste.
+How odd that the visual aesthetic of food could influence its taste.
