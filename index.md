@@ -3,7 +3,7 @@ layout: page
 title: "Hey! I'm Soowan"
 ---
 This site is where I log my _thoughts_   
-... and also where I log my projects:
+... and occasional programming projects:
 ```python
 Goal = "To explore nature and healthcare through programming (machine learning)!"
 ```
