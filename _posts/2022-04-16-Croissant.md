@@ -2,7 +2,7 @@
 title: "Croissant"
 layout: post
 ---
-![croissant](/assets/C70A01AA-B650-4F76-A02D-14C2BFB0D8F9.jpeg)
+![croissant](assets/C70A01AA-B650-4F76-A02D-14C2BFB0D8F9.jpeg)
 
 As I ate my mini-egg croissant sandwich today, I couldn't help but notice how similar the taste was to an egg tart. 
 I had changed my original order from the ham & cheese croissant to the mini-egg croissant because:
