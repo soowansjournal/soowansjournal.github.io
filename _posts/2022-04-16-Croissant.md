@@ -1,5 +1,5 @@
 ---
-title: "Croissant"
+title: "Croissant: an Analysis"
 layout: post
 ---
 ![croissant](/assets/C70A01AA-B650-4F76-A02D-14C2BFB0D8F9.jpeg)
