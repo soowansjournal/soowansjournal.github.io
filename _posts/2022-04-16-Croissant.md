@@ -15,5 +15,5 @@ _I am not a fan of egg tarts._
 All I could think of was a mashed up bowl of potato and eggs as I chewed on the croissant with my eyes closed.
    
 But when I opened them, the croissant tasted .. **pretty good**. I felt like a food connoisseur admiring its abstract texture and taste.   
-How odd that the visual aesthetic of food could have this much impact on its taste.  
+How odd that the visual aesthetic of food could have such an impact on its taste.  
 Or maybe I was just hungry.
