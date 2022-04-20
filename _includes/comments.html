@@ -20,9 +20,7 @@
   const commentsSection = document.getElementById('comments');
   const commentsWrapper = commentsSection.querySelector('#comments-wrapper');
   const commentsCount = commentsSection.querySelector('#comments-count');
-</script>
-
-const commentsObserver = new IntersectionObserver((entries, self) => {
+  const commentsObserver = new IntersectionObserver((entries, self) => {
   entries.forEach((entry) => {
     if (entry.isIntersecting) {
       fetchComments(); // this is the important part
@@ -124,3 +122,6 @@ const renderComments = (comments) => {
   commentsWrapper.innerHTML = '';
   commentsWrapper.appendChild(commentsList);
 }
+</script>
+
+
