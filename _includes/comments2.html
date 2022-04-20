@@ -1,5 +1,8 @@
+
+{% assign issues_repo = site.issues_repo %}
+{% assign issue_id = include.issue_id %}
+
 <script>
-const GH_API_URL = 'https://api.github.com/repos/aristath/aristath.github.com/issues/5/comments?per_page=100';
 
 let request = new XMLHttpRequest();
 request.open( 'GET', GH_API_URL, true );
