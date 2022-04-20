@@ -3,6 +3,13 @@ layout: default
 ---
 	
 
+<!--DIY Comments-->
+<!--
+  {% if page.comments_id %}
+    {% include comments.html issue_id=page.comments_id %}
+  {% endif %}
+--> 
+
 <article>
   {% include meta.html post=page %}
   {{ content }}
@@ -13,12 +20,6 @@ layout: default
     {% if site.comments.disqus_shortname %}<div id="disqus_thread"></div>{% endif %}
     <noscript>Please enable JavaScript to view comments.</noscript>
   {% endif %}
-
-	<!--DIY Comments-->
-	<!--
-  {% if page.comments_id %}
-    {% include comments.html issue_id=page.comments_id %}
-  {% endif %}--> 
 	
 </article>
 
