@@ -3,6 +3,7 @@ layout: default
 title: "Explore"
 ---
 
+
 {% if site.show_excerpts %}
   {% include home.html %}
 {% else %}
