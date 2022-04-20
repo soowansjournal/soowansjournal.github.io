@@ -1,20 +1,23 @@
 ---
 layout: default
 ---
-<body>
-<small>{{ page.date | date: "%-d %B %Y" }}</small>
-<h1>{{ page.title }}</h1>
+	
 
-<p class="view">by {{ page.author | default: site.author }}</p>
+<article>
+  {% include meta.html post=page %}
+  {{ content }}
 
-{{content}}
+  {% if page.comments != false and site.comments.isso or site.comments.disqus %}
+    <hr>
+    {% if site.comments.isso_domain %}<div id="isso-thread"></div>{% endif %}
+    {% if site.comments.disqus_shortname %}<div id="disqus_thread"></div>{% endif %}
+    <noscript>Please enable JavaScript to view comments.</noscript>
+  {% endif %}
 
-{% if page.tags %}
-  <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
-{% endif %}
-
-{% if page.comments %}
+  {% if page.comments_id %}
     {% include comments.html issue_id=page.comments_id %}
-{% endif %}
-</body>
+  {% endif %}
+</article>
+
+
 
