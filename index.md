@@ -2,8 +2,7 @@
 layout: page
 title: "Hey! I'm Soowan"
 ---
-a site to log my **_thoughts_**   
-... and programming projects:
+**ex**ploring with **cod**e
 ```python
 Goal = "To explore nature and healthcare through programming (machine learning)!"
 ```
