@@ -2,7 +2,7 @@
 layout: page
 title: "Hey! I'm Soowan"
 ---
-**ex**ploring through **cod**e
+to **cod**e and to **ex**plore
 ```python
 Goal = "To explore nature and healthcare through programming (machine learning)!"
 ```
