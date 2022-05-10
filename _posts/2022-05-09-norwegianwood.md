@@ -5,7 +5,7 @@ layout: post
 
 ## 스포일러 경고!!!
 
-![Norwegian Wood](/assets/.jpeg)
+![Norwegian Wood](/assets/norwegianwood.jpg)
 
 한국에 가면 친하게 지내는 친구가 있다.   
 나한테 소중한 추억을 안겨준 친구.   
