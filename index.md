@@ -3,8 +3,10 @@ layout: page
 title: "Hey! I'm Soowan"
 ---
 
+to code and **communicate** ideas
+
 ```python
-Goal = "to code and communicate ideas!"
+Goal = "To explore nature and healthcare through programming (machine learning)!"
 ```
 **Personal Portfolio: [soowanchoi.com](https://www.soowanchoi.com)**
 
