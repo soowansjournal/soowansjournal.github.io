@@ -3,9 +3,7 @@ title: "The Kingkiller Chronicle"
 layout: post
 ---
 
-![TWM](/assets/.jpg)
-
-> "We all know how to be a child.   
+![kingkiller](/assets/kingkiller.jpg)
 
 Recently, I finished the first two books of the heroic fantasy trilogy by Patrick Rothfuss, The Kingkiller Chronicle.   
 
