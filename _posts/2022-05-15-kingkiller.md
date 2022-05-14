@@ -1,5 +1,5 @@
 ---
-title: "The Kingkiller Chronicle"
+title: "📚 The Kingkiller Chronicle"
 layout: post
 ---
 
