@@ -16,7 +16,7 @@ The second book is **The Wise Man's Fear**.
 His journey consists of the Adem mercenaries, the Fae realm, and his heroic display of 'magic'.   
 
 The writing style alternates between two timelines, as Kvothe tells his story to his companion in present time.   
-The story has a spice of romance but does not take away from the plot.   
+The story has a spice of romance which adds to the plot.   
 This is a series that plays a movie in your brain as you read - I just couldn't put the book down. 
 
 After 11 years, the third book is estimated for release in July? 2022.   
