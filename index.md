@@ -2,12 +2,8 @@
 layout: page
 title: "Hey! I'm Soowan"
 ---
+to **communicate** ideas   
 
-to code and **communicate** ideas
-
-```python
-Goal = "To explore nature and healthcare through programming (machine learning)!"
-```
 **Personal Portfolio: [soowanchoi.com](https://www.soowanchoi.com)**
 
 
