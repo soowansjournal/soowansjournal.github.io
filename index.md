@@ -3,7 +3,7 @@ layout: page
 title: "Hey! I'm Soowan"
 ---
 
-to **communicate** ideas   
+**thank you** for joining me      
 
 **Personal Portfolio: [soowanchoi.com](https://www.soowanchoi.com)**
 
