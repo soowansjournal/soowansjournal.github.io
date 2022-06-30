@@ -1,7 +1,8 @@
 ---
 layout: page
-title: "Soowan (수완)"
 ---
+
+Click "Explore" near top right!
 
 **Personal Portfolio: [soowanchoi.com](https://www.soowanchoi.com)**
 
