@@ -3,7 +3,7 @@ layout: page
 title: "Hey! I'm Soowan"
 ---
 
-**now**    
+**수완**    
 
 **Personal Portfolio: [soowanchoi.com](https://www.soowanchoi.com)**
 
