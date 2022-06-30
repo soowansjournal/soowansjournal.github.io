@@ -3,7 +3,7 @@ layout: page
 title: "Hey! I'm Soowan"
 ---
 
-**thank you** for joining me      
+**now**    
 
 **Personal Portfolio: [soowanchoi.com](https://www.soowanchoi.com)**
 
