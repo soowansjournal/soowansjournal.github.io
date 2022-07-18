@@ -7,7 +7,7 @@ layout: post
 
 **Book Title**   
 The Three-Body Problem   
-(_fiction_)
+(_fiction_ | _science fiction_)
 
 **Author**   
 Liu Cixin
