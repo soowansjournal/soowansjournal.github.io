@@ -3,7 +3,7 @@ layout: page
 title: "Soowan (수완)"
 ---
 
-Queen's University '21 * University of Toronto '23   
+Queen's University '21 | University of Toronto '23   
 
 **Personal Portfolio: [soowanchoi.com](https://www.soowanchoi.com)**
 
