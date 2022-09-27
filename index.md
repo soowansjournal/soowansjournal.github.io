@@ -1,7 +1,9 @@
 ---
 layout: page
-title: "Soowan (수완)"
+title: " "
 ---
+
+**thank you** 
 
 Queen's University '21 | University of Toronto '23   
 
