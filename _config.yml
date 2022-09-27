@@ -28,7 +28,7 @@ external:                  # shows a footer with social links - for available ic
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
 #  isso_domain: ""         # see https://posativ.org/isso/
-issues_repo: swanscodex/swanscodex.github.io
+issues_repo: swanscodex/soowan.github.io
 
 plugins:
  - jekyll-feed
