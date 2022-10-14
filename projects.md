@@ -5,6 +5,9 @@ title: "Projects"
 
 
 {% if site.show_excerpts %}
-  {% include archive.html title="Personal Projects" %}
+  {% include home.html %}
+{% else %}
+  {% include archive.html title="Explore with me" %}
 {% endif %}
+
 
