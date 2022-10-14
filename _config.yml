@@ -24,7 +24,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:soowan.choi@queensu.ca"}
-  - {title: Github, icon: github, url: "https://github.com/soowansjournal"}
+  #- {title: Github, icon: github, url: "https://github.com/soowansjournal"}
+  - {title: LinkedIn, icon: linkedin-square, url: "www.linkedin.com/in/soowanchoi"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
