@@ -1,6 +1,7 @@
 ---
 title: "📚 The Count of Monte Cristo"
 layout: post
+blog: "journal"
 ---
 
 ![montecristo](/assets/montecristo.jpg)
