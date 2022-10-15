@@ -1,6 +1,7 @@
 ---
 title: "📚 The Three-Body Problem"
 layout: post
+blog: "journal"
 ---
 
 ![threebody](/assets/threebody.jpg)
