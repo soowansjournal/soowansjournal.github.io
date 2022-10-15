@@ -1,6 +1,7 @@
 ---
 title: "📚 The Kingkiller Chronicle"
 layout: post
+blog: "journal"
 ---
 
 ![kingkiller](/assets/kingkiller.JPG)
