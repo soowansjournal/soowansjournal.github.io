@@ -4,5 +4,5 @@ title: "Journal"
 ---
 
 
-{% include archivejournal.html title="Explore" %}
+{% include archive.html title="Explore" %}
 
