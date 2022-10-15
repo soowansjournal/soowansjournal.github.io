@@ -7,7 +7,7 @@ title: "Projects"
 {% if site.show_excerpts %}
   {% include home.html %}
 {% else %}
-  {% include archive.html title="Explore with me" %}
+  {% include archiveproject.html title="Explore" %}
 {% endif %}
 
 
