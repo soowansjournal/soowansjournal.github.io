@@ -8,9 +8,6 @@ blog: "journal"
 
 ![Norwegian Wood](/assets/norwegianwood.jpg)
 
-한국에 가면 친하게 지내는 친구가 있다.   
-나한테 소중한 추억을 안겨준 친구.   
-그 친구가 보내준 책은 그만큼 사려 깊은 선물이다.
 
  _노르웨이의 숲_ 
 
